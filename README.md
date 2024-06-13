@@ -46,4 +46,5 @@ Projekt WELT vijesti omogućava korisnicima jednostavan pregled i upravljanje vi
 Za puni pristup projektu ulogirati se sa podatcima:
 
 username: ante1
+
 password: 123
