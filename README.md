@@ -42,7 +42,7 @@ MySQL: Za pohranu podataka o vijestima i korisnicima.
 Sesije: Za upravljanje prijavom korisnika i sigurnošću.
 Projekt WELT vijesti omogućava korisnicima jednostavan pregled i upravljanje vijestima, pružajući moderno i sigurno iskustvo korištenja. Razvijen je s fokusom na funkcionalnost, sigurnost i intuitivno korisničko sučelje.
 
-
+https://youtu.be/dN2e6IZJKsM
 Za puni pristup projektu ulogirati se sa podatcima:
 
 username: ante1
